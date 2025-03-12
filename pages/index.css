@@ -35,7 +35,7 @@
   color: #3f96f3;
 }
 
-.header__discription {
+.header__description {
   margin: 28px 0 0;
   max-width: 683px;
   font-family: "Noto Serif";
@@ -150,10 +150,8 @@
 }
 
 .recipes__iframe {
-  margin: 0;
-}
-
-.iframe-style {
+  width: 560px;
+  height: 315px;
   border: none;
 }
 
