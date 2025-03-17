@@ -4,9 +4,11 @@
   box-sizing: border-box;
   flex-direction: column;
   display: flex;
-  background-image: url(../images/se_project_2_files/background_header.svg);
+  background: no-repeat,
+    center url(../images/se_project_2_files/background_header.svg);
   background-size: cover;
   position: relative;
+  z-index: 1;
 }
 
 .header__image {
@@ -15,6 +17,7 @@
   right: 5px;
   width: 646px;
   height: 568;
+  z-index: -1;
 }
 
 .header__title {
