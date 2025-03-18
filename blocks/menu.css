@@ -1,7 +1,6 @@
 .menu {
   background-color: #fff;
-  background: center/cover no-repeat
-    url(../images/se_project_2_files/background_menu.svg);
+  background: center/cover no-repeat url(../images/background_menu.svg);
   padding: 100px 0;
   display: flex;
   flex-direction: column;
